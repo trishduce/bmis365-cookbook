@@ -13,8 +13,7 @@
 - [Cheesy Garlic Bread](recipes/briston_flug.md) - by Briston Flug
 <<<<<<< HEAD
 - [Chocolate Brownies](recipes/hale_farniok.md) - by Hale Farniok
-=======
-<<<<<<< HEAD
+
 - [Tiramisu] (recipes/megan_mccluskey.md) - Megan McCluskey
 =======
 
