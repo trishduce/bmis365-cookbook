@@ -1,11 +1,11 @@
-# <Oatmeal Scotchies>
+# Oatmeal Scotchies
 
 **Contributed by:** <Karin Ferguson>
 **Serves:** <about 4 dozen>  |  **Time:** <20 mins>
 
 ## Why this one
 
-I've made this recipe a few times and they are a deliciuos cookie. I got the recipe off the back of a nestle bag of butterscotch morsels. I highly recomend making these cause they are chewy and delicious. 
+I've made this recipe a few times and they are a deliciuos cookie. I got the recipe off the back of a nestle bag of butterscotch morsels. I highly recomend making these cause they are chewy and delicious. Yum!
 
 ## Ingredients
 
