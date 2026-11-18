@@ -1,7 +1,7 @@
-# <Breach and Clear>
+# Breach and Clear
 
-**Contributed by:** <Jesse Hogsett>
-**Serves:** <1>  |  **Time:** <15min>
+**Contributed by:** Jesse Hogsett
+**Serves:** 1  |  **Time:** 15min
 
 ## Why this one
 
