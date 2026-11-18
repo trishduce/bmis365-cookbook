@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-# <Recipe Name>
-
-**Contributed by:** <Your Name>
-**Serves:** <number>  |  **Time:** <total minutes>
-
-## Why this one
-
-Two or three sentences. Where did you get it, when do you make it, why is it
-worth someone else's time?
-
-## Ingredients
-
-- 2 cups flour
-=======
 # <Oatmeal Chocolate Chip Breakfast Cookies>
 
 **Contributed by:** <Asher Deming>
@@ -36,20 +21,10 @@ It's worth making because they are easy to make and easy to eat in the morning i
 - 1 large egg
 - 1 1/2 cups rolled oats: 135g
 - 1 cup semisweet chocolate chips: 150g
->>>>>>> 0aaf99d3f34f9828cbf8d2cbc95da683cbf39cf1
 - 1 tsp salt
 
 ## Steps
 
-<<<<<<< HEAD
-1. Do the first thing.
-2. Do the next thing.
-
-## Notes
-
-Substitutions, what to do if you do not have the right pan, how to tell when
-it is actually done. The part a recipe card usually leaves out.
-=======
 1. In a medium bowl, whisk together the flour and baking soda; set aside.
 2. Combine the butter with both sugars; beat on medium speed until light and fluffy.
 3. Reduce speed to low; add the salt, vanilla, and egg. Beat until well mixed, about 1 minute.
@@ -66,4 +41,3 @@ it is actually done. The part a recipe card usually leaves out.
 - Chilling the dough is optional but it created a cookie that spreads out less, concentrates the flavor and dehydrates the dough a bit as well.
 - Toasted walnuts make an excellent addition to this cookie. Try adding in 1/2 to 1 cup of chopped nuts.
 - Your cookies are done when the edges start to brown, The centers will not be raw but they aren't fully set either.
->>>>>>> 0aaf99d3f34f9828cbf8d2cbc95da683cbf39cf1
