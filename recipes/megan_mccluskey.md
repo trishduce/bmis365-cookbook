@@ -1,7 +1,7 @@
-# <Tiramisu>
+# Tiramisu
 
-**Contributed by:** <Megan McCluskey>
-**Serves:** <8>  |  **Time:** <2 hours and 25 minutes>
+**Contributed by:** Megan McCluskey
+**Serves:** 8  |  **Time:** 2 hours and 25 minutes
 
 ## Why this one
 
