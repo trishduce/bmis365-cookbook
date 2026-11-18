@@ -15,7 +15,7 @@ I like to eat peanut butter and honey toast and I eat it frequently.
 
 ## Steps
 
-1. Toast Bread to your Desired 
+1. Toast Bread to your Desired Crispness
 2. Spread Peanut Butter on Toast
 3. Drizzle Honey on Top
 
