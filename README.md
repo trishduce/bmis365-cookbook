@@ -11,6 +11,5 @@
 - [Cheesy Garlic Bread](recipes/briston_flug.md) - by Briston Flug
 - [Chocolate Brownies](recipes/hale_farniok.md) - by Hale Farniok
 
->>>>>>> 71e9f60eb3c2814bfb7c686a505a4345465c25f3
 - [Tiramisu] (recipes/megan_mccluskey.md) - Megan McCluskey
  - [Oatmeal Chocolate Chip Breakfast Cookies](recipes/asher_deming.md) - by Asher Deming
