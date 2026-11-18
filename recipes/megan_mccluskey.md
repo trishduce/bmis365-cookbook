@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 # <Tiramisu>
 
 **Contributed by:** <Megan McCluskey>
 **Serves:** <8>  |  **Time:** <2 hours and 25 minutes>
+=======
+# Tiramisu
+
+**Contributed by:** Megan McCluskey
+**Serves:** 8  |  **Time:** 2 hours and 25 minutes
+>>>>>>> 834bbc44850f6d9ba857e382cc5adca973426b2e
 
 ## Why this one
 
